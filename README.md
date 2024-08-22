@@ -4,7 +4,7 @@ This project offers an in-depth analysis of credit card transactions, including 
 
 Created interactive dashboard with real time data updates.
 
-🔗 Project Link
+🔗 [Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNTM5NzRiYWMtNjk4ZC00NmIxLThjZGItNDM3YTkwOGIxNjk5IiwidCI6IjE1ZjdmNjk3LWQ0ZmEtNDZlNC04ZGUzLThhNDAwMTFhYTY1NiJ9)
 
 [Credit_Card_Analysis_Report.pdf](https://github.com/user-attachments/files/16443708/Credit_Card_Analysis_Report.pdf)
 
